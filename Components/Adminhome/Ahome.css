@@ -1,0 +1,40 @@
+.outer {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: left;
+  }
+  
+.inner20{
+      /* height: 600px; */
+    width: 450px;
+    margin: auto;
+    background: #93f3abe0;
+    box-shadow: 0px 14px 80px rgba(34, 35, 58, 0.2);
+    padding: 40px 55px 45px 55px;
+    border-radius: 15px;
+    transition: all .3s;
+  }
+  #blue{
+    margin-top: 40px;
+}
+#employee1{
+    color:black;
+    font-size: 40px;
+    font-weight: bold; color:rgb(248, 86, 221);
+}
+#totalissue1{
+    font-size: 20px;
+    color:#ff9216;
+}
+#solvedissue1{
+    font-size: 20px;
+    color:#551c02;
+}
+#activeissue1{
+    font-size: 20px;
+    color:#000000;
+}
+#userHome{
+  margin-top: 10px;
+}
